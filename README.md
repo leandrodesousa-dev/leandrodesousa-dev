@@ -2,7 +2,7 @@
 <img align='right' src="./gifs/zoro-1.gif" width="230">
 
 #### Seja Bem-Vindo!! Eu sou Leandro de Sousa.
-<p>Atuo como desenvolvedor iOS há mais de 6 anos. <img src="./gifs/matrix-1.gif" width="30"></br>Para mais infromações sobre meus projetos <a href="www.leandrodesousa.dev">Meu Portfólio. </a><img src="./gifs/dinheiro-1.gif" width="30"> 
+<p>Atuo como desenvolvedor iOS há mais de 5 anos. <img src="./gifs/matrix-1.gif" width="30"></br>Para mais infromações sobre meus projetos <a href="www.leandrodesousa.dev">Meu Portfólio. </a><img src="./gifs/dinheiro-1.gif" width="30"> 
 </p>
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/leandrodesousadesenvolvedorios/)
